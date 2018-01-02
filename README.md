@@ -105,7 +105,7 @@ adb pull /sdcard/autojump.png .
  
  - CSDN博客：http://blog.csdn.net/u012104219
  
- -  Email：frank_lin@whu.edu.cn
+ - Email：frank_lin@whu.edu.cn
 
 > 如果你觉得不错的话，不妨打赏一下，这样我就有更大的动力去完善它，优化它。
 
