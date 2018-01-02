@@ -1,5 +1,7 @@
 # Python来帮你玩微信跳一跳
+> 2017 年 12 月 28 日下午，微信发布了 6.6.1 版本，加入了「小游戏」功能，并提供了官方 DEMO「跳一跳」。
 
+>自己也是上瘾，玩了一白多局，也只有得到189分，后来看到网上一系列“教你用Python玩跳一跳”之类的文章，故决定写一篇经验贴用最简单的方式实现微信跳一跳游戏。
 
 ## **开始前说明**
 > 为了环境统一和成功实现，本文使用虚拟机实现。本文主要以：`Android` + `Windows` 实现，Mac下同理也可以通过`Android` + `MacOS`实现。
@@ -9,9 +11,6 @@
 ## **QQ交流群：**
 * 微信跳一跳交流群：  **657588688**
 
-
-## 游戏模式
-> 2017 年 12 月 28 日下午，微信发布了 6.6.1 版本，加入了「小游戏」功能，并提供了官方 DEMO「跳一跳」。
 
 
 ##  **环境依赖安装**
@@ -57,7 +56,7 @@ adb pull /sdcard/autojump.png .
   * **自动版**：靠棋子的颜色来识别棋子，靠底色和方块的色差来识别棋盘；
 
 <div align=center>
-<img width="400" src="https://raw.githubusercontent.com/frank-lam/weixin_jump/master/images/jump_distance.png"/>
+<img src="https://raw.githubusercontent.com/frank-lam/weixin_jump/master/images/jump_distance2.png"/>
 </div>
 
 
