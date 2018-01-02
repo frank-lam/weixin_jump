@@ -100,4 +100,4 @@ adb pull /sdcard/autojump.png .
 > 如果你觉得不错的话，不妨打赏一下，这样我就有更大的动力去完善它，优化它。
 
 
-<img width="32%" src="https://raw.githubusercontent.com/frank-lam/weixin_jump/master/images/tipping.jpg"/>
+<img src="https://raw.githubusercontent.com/frank-lam/weixin_jump/master/images/tipping.bmp"/>
