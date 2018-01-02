@@ -18,7 +18,7 @@
 ###  **环境依赖安装**
 
 - **Python 2.7**
-    * 点击[这里](https://www.python.org/ftp/python/2.7.14/python-2.7.14.msi)下载，下载`python-2.7.14.msi`一路next到成功即可
+    * 点击[这里](https://www.python.org/ftp/python/2.7.14/python-2.7.14.msi)，下载`python-2.7.14.msi`一路next到成功即可
     * 打开控制台，输入：`python --version`，出现`Python 2.7.xx`字样说明安装成功
 
 - **Python依赖**（依赖包在`requirements.txt`中）
