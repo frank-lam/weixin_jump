@@ -25,7 +25,7 @@
     *   依赖包安装：`pip install -r requirements.txt`
 
 
-- **手机或者模拟器**（这里推荐使用++蓝叠模拟器++，点击[这里](http://202.114.96.192/aliosscdn.bluestacks.cn/package/BlueStacksGPSetup.exe)直接下载，蓝叠[官网](http://www.bluestacks.cn/)，建议不要使用夜神模拟器，无法使用adb连接）
+- **手机或者模拟器**（这里推荐使用`蓝叠模拟器`，点击[这里](http://202.114.96.192/aliosscdn.bluestacks.cn/package/BlueStacksGPSetup.exe)直接下载，蓝叠[官网](http://www.bluestacks.cn/)，建议不要使用夜神模拟器，无法使用adb连接）
 
 - **adb**（位于 Android SDK 中：`platform-tools/adb`）
     *   安装 [Universal ADB Drivers](https://adb.clockworkmod.com/) 后，请在 环境变量 里将 adb 的安装路径保存到 PATH 变量里，确保 `adb` 命令可以被识别到。
