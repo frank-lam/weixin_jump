@@ -101,6 +101,7 @@ adb pull /sdcard/autojump.png .
 * 事实证明，机器人比人更会玩儿游戏。哈哈，千万不要刷高分，否则会被揍，请稳步刷分。
 * **项目地址**：https://github.com/frank-lam/weixin_jump
 * **CSDN博客**：http://blog.csdn.net/u012104219
+* **知乎专栏**：https://zhuanlan.zhihu.com/frankfeekr
 * **Email**：frank_lin@whu.edu.cn
 
 > 如果你觉得不错的话，不妨打赏一下，这样我就有更大的动力去完善它，优化它。
